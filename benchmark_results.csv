@@ -1,0 +1,10 @@
+dataset,encoding,compression_ratio,compression_cycles_per_value,decompression_cycles_per_value
+census1881,roaring,0.4712,0.62,0.92
+census1881_srt,roaring,0.0676,0.56,0.75
+census-income,roaring,0.0811,0.06,0.07
+census-income_srt,roaring,0.0187,0.03,0.03
+uscensus2000,roaring,1.3078,20.53,53.72
+weather_sept_85,roaring,0.1681,0.16,0.22
+weather_sept_85_srt,roaring,0.0106,0.02,0.03
+wikileaks-noquotes,roaring,0.1841,1.17,1.35
+wikileaks-noquotes_srt,roaring,0.0510,0.73,0.84
